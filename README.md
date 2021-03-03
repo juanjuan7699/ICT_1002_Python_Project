@@ -17,9 +17,15 @@ The overall instructions for every team to follow is provided as follows.
 4. Provide some evaluations and comparisons if needed.
 
 In particular, your system shall allow users to perform some basic features shown as below:
+
 • Read data from an external data sources, e.g. txt, Jason, excel or other formats.
+
 • Allow users to view the datasets.
+
 • Allow users to search the data based on some criterion.
+
 • Allow users to see some statistics information based on the data.
+
 • Allow users to export some of the results.
+
 • As some advanced features, you can identify your only way for pattern/anomaly detection, prediction or other analyses using advanced data science libraries like machine learning libraries.
